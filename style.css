@@ -1,0 +1,26 @@
+#main {
+    margin: 0 15%;
+}
+
+#title, #img-div * {
+    text-align: center;
+}
+
+#img-div {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+#image {
+    max-width: 100%;
+}
+
+footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+#tribute-info * {
+    text-align: justify;
+}
